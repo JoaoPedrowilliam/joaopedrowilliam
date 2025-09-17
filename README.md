@@ -5,9 +5,8 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoPedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-william/)](https://www.linkedin.com/in/joao-pedro-william/) [![Gmail Badge](https://img.shields.io/badge/-joaopedrowilliam41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrowilliam41@gmail.com)](mailto:joaopedrowilliam41@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
 
 ## :computer: Technologies I Love
 * Python
