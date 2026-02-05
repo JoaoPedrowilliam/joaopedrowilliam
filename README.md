@@ -1,56 +1,85 @@
-<br clear="both">
+## Faaaala dev, João Pedro Aqui!
 
-<h1 align="center">Hey 👋What's Up?</h1>
+- 🙋‍♂️ João Pedro Almeida, tenho 22 anos
+- 🌱 Atualmente estudando Java, Python
+- 📫 Onde me encontrar: joaopedrowilliam41@gmail.com
+- ⚽ 🎞 Apaixonado por programação, futebol Americano, Astronomia e Filmes 
 
-###
+<div>
+  
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrowilliam&theme=ocean_dark&show_icons=true"/>
+ <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrowilliam&layout=compact&langs_count=16&theme=ocean_dark"/>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
 </div>
 
-###
+<br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joao-pedro-william/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me/1468808739598504091" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="joaopedrowilliam41@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+<div align="center"> 
+    <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <div style="display: inline_block"><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a target="_blank" href="https://www.linkedin.com/in/joao-pedro-william"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+    <a target="_blank" href="mailto:joaopedrowilliam41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </div>
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+## Hello, this is João Pedro. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-###
+<h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-###
+[![Linkedin Badge](https://img.shields.io/badge/-JoaoPedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-william/)](https://www.linkedin.com/in/joao-pedro-william/) [![Gmail Badge](https://img.shields.io/badge/-joaopedrowilliam41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrowilliam41@gmail.com)](mailto:joaopedrowilliam41@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
+## :computer: Technologies I Love
+* Python
+* Machine Learning
+* Data Science
+
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrowilliam&layout=compact">
+
+## Programming Languages
+<img src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/> <img src = 'https://img.shields.io/badge/MySQL-082668?style=for-the-badge&logo=mysql&logoColor=white'/> <img src = 'https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'/> <img src = 'https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/> <img src = 'https://img.shields.io/badge/Power_BI-ede11b?style=for-the-badge&logo=Power_BI&logoColor=white'/> <img src = 'https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white'/>
+
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Joao Pedro '
+	  current_work = 'Analyzing data'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Brazil São-Paulo()
+	
+
+	
+ ```
+ 
+## Curre Works
+ * Restaurant Recommendation System
+   
+ 
+## Other Stuff
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
