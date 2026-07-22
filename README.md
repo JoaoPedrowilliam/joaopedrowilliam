@@ -12,15 +12,6 @@
 
 ---
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrowilliam&show_icons=true&theme=ocean_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrowilliam&layout=compact&langs_count=8&theme=ocean_dark"/>
-
-</div>
-
----
-
 ## 💻 Tecnologias que estou utilizando
 
 <div align="center">
